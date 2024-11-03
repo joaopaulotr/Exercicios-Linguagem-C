@@ -1,3 +1,10 @@
 {
-    "C_Cpp.errorSquiggles": "disabled"
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "ex03.C": "cpp",
+        "ex05.C": "cpp",
+        "EX08.C": "cpp",
+        "EX17.C": "cpp",
+        "EX18.C": "cpp"
+    }
 }
